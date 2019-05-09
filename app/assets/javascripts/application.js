@@ -1,5 +1,5 @@
 /*
-*= require main
 *= require blogs
+*= require pages
 *= require posts
 */
